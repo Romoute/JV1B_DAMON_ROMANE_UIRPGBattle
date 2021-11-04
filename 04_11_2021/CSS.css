@@ -1,0 +1,16 @@
+.premier_bloc {
+    display: inline box;
+    width: 80px;
+    height: auto;
+    padding: auto;
+    margin: 3px;
+    border:5px solid rgb(0, 0, 0);
+    background: rgba(99, 131, 84, 0.3);
+    text-align:center;
+}
+
+#premier_bloc{
+    justify-content:flex-end;
+
+
+}
